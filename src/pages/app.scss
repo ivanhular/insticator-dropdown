@@ -1,0 +1,11 @@
+$work: 'Work Sans', sans-serif;
+
+body {
+  font-family: $work;
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+}
